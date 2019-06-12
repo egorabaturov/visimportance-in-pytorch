@@ -6,13 +6,10 @@ Knowing where people look and click on visual designs can provide clues about ho
 
 ### Easy way to try
 
-1. [Download](https://www.dropbox.com/s/9kymnt3muczzpqb/pretrained_models.zip?dl=0) pretrained models and put in: `~/pretrained_models`  
-
-(all models in one ZIP, 2Gb: `voc_fcn32.pth` `gdi_fcn32.pth` `gdi_fcn16.pth` `massvis_fcn32.pth`)  
-
+1. [Download](https://www.dropbox.com/s/9kymnt3muczzpqb/pretrained_models.zip?dl=0) pretrained models and put in: `~/pretrained_models`  (all models in one zip file, ~2Gb: `voc_fcn32.pth`, `gdi_fcn32.pth`, `gdi_fcn16.pth`, `massvis_fcn32.pth`)  
 2. Check libraries: `~/requirements.txt`
 3. Paste PNG/JPG file (only RGB) in: `~/examples/in`
-4. Check `img_name`
+4. Check `img_name` in `~/test.py` 
 5. Run: `~/test.py` 
 6. Get the result in: `~/examples/out`
 
@@ -23,11 +20,11 @@ The best result gives `gdi_fcn16`
 
 ### Examples: 
 
-*Result from `fcn16s`*
+*Result from* `fcn16s`
 
 ![](examples/test_2018-11-30_fcn16.jpg)
 
-*Result from `fcn32s`*
+*Result from* `fcn32s`
 
 ![](examples/test_2018-11-30_fcn32.jpg)
 
@@ -41,7 +38,11 @@ The best result gives `gdi_fcn16`
 - way to compare the usability test results and the visual importance prediction results to ensure the quality of the prediction and understand the discrepancies with reality
 - big goal is to teach a neural network to predict good and bad design by making it a plug-in for prototyping tools such as a figma or sketch  
 
-Thanks a lot to for my mentor **Lena Sukmanova** for helping to launch the algorithm.  
+Thanks a lot to for my mentor **Lena Sukmanova** for helping to launch the algorithm.
+
+### References
+
+Cooming soon.
 
 [Original source.](https://github.com/cydonia999/visimportance-in-pytorch) Below README from original source:
 
