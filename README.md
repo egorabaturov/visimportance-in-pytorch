@@ -49,26 +49,26 @@ Thanks a lot to for my mentor **Lena Sukmanova** for helping to launch the algor
 
 3. Learning Layouts for Single-Page Graphic Designs. [Link](http://www.dgp.toronto.edu/~donovan/layout/index.html)
 
-4. Predicting Attention for Design Feedback [Link](https://visxvision.files.wordpress.com/2017/11/3mininfovis.pdf)
+4. Predicting Attention for Design Feedback. [Link](https://visxvision.files.wordpress.com/2017/11/3mininfovis.pdf)
 
-5. 19 Things We Can Learn From Numerous Heatmap Tests [Link](https://conversionxl.com/blog/19-things-we-can-learn-from-numerous-heatmap-tests/)
+5. 19 Things We Can Learn From Numerous Heatmap Tests. [Link](https://conversionxl.com/blog/19-things-we-can-learn-from-numerous-heatmap-tests/)
 
-6. What are Web Heatmaps, Really? (And the 4 Major Problems of Heat Mapping Tools) [Link](https://blog.fullstory.com/what-are-web-heatmaps-how-do-they-work-pros-cons-alternatives/)
+6. What are Web Heatmaps, Really? (And the 4 Major Problems of Heat Mapping Tools). [Link](https://blog.fullstory.com/what-are-web-heatmaps-how-do-they-work-pros-cons-alternatives/)
 
-7. What We Can Learn From Heat Map Studies to Improve Our Calls-to-Action [Link](https://moz.com/ugc/what-we-can-learn-from-heat-map-studies-to-improve-our-callstoactions)  
+7. What We Can Learn From Heat Map Studies to Improve Our Calls-to-Action. [Link](https://moz.com/ugc/what-we-can-learn-from-heat-map-studies-to-improve-our-callstoactions)  
 
 
 На русском:
 
-1. Машинное обучение для людей [Link](https://vas3k.ru/blog/machine_learning/?fbclid=IwAR13ujEKXaXaxlkeiBucDGfLDHILl21LqJHt6b4D6Otlte9Eu59a9RAJ6YE)
+1. Машинное обучение для людей. [Link](https://vas3k.ru/blog/machine_learning/?fbclid=IwAR13ujEKXaXaxlkeiBucDGfLDHILl21LqJHt6b4D6Otlte9Eu59a9RAJ6YE)
 
-2. Карта внимания пользователей для дизайнеров (разные точки зрения в комментариях) [Link](https://vc.ru/flood/29427-neyronnaya-set-dnya-karta-vnimaniya-polzovateley-dlya-dizaynerov)
+2. Карта внимания пользователей для дизайнеров (разные точки зрения в комментариях). [Link](https://vc.ru/flood/29427-neyronnaya-set-dnya-karta-vnimaniya-polzovateley-dlya-dizaynerov)
 
-3. 19 уроков на основании анализа тепловых карт и айтрекинга [Link](https://lpgenerator.ru/blog/2014/06/19/shkola-internet-marketinga-19-urokov-na-osnovanii-analiza-teplovyh-kart-i-ajtrekinga/)
+3. 19 уроков на основании анализа тепловых карт и айтрекинга. [Link](https://lpgenerator.ru/blog/2014/06/19/shkola-internet-marketinga-19-urokov-na-osnovanii-analiza-teplovyh-kart-i-ajtrekinga/)
 
-4. Тепловые карты в контексте веб-дизайна [Link](https://lpgenerator.ru/blog/2017/04/06/teplovye-karty-v-kontekste-veb-dizajna/)
+4. Тепловые карты в контексте веб-дизайна. [Link](https://lpgenerator.ru/blog/2017/04/06/teplovye-karty-v-kontekste-veb-dizajna/)
 
-5. Как улучшить Calls-to-Action с помощью тепловых карт [Link](https://lpgenerator.ru/blog/2017/05/23/kak-uluchshit-calls-action-s-pomoshyu-teplovyh-kart/)  
+5. Как улучшить Calls-to-Action с помощью тепловых карт. [Link](https://lpgenerator.ru/blog/2017/05/23/kak-uluchshit-calls-action-s-pomoshyu-teplovyh-kart/)  
 
 
 
