@@ -6,7 +6,7 @@ Knowing where people look and click on visual designs can provide clues about ho
 
 ### Easy way to try
 
-1. [Download](https://www.dropbox.com/s/9kymnt3muczzpqb/pretrained_models.zip?dl=0) pretrained models and put in: `~/pretrained_models`  
+1. [Download](https://drive.google.com/file/d/1U77h0kMICBuVTfxGdb_8LSPVPBeajYKy/view?usp=sharing) pretrained models and put in: `~/pretrained_models`  
 (all models in one zip file, ~2Gb: `voc_fcn32.pth`, `gdi_fcn32.pth`, `gdi_fcn16.pth`, `massvis_fcn32.pth`)  
 2. Check libraries: `~/requirements.txt`
 3. Paste PNG/JPG file (only RGB) in: `~/examples/in`
