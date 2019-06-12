@@ -21,11 +21,11 @@ The best result gives `gdi_fcn16`
 
 ### Examples: 
 
-*Result from* `fcn16s`
+Result from `fcn16s`
 
 ![](examples/test_2018-11-30_fcn16.jpg)
 
-*Result from* `fcn32s`
+Result from `fcn32s`
 
 ![](examples/test_2018-11-30_fcn32.jpg)
 
